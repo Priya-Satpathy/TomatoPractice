@@ -8,11 +8,11 @@
     color: grey;
     font-size: max(1vw,12px);
 }
-.cart-items-items{
+.cart-items-item{
     margin: 10px 0px;
     color: black;
 }
-.cart-items-items image{
+.cart-items-item img{
     width: 50px;
 }
 .cart hr{
@@ -20,6 +20,6 @@
     background-color: #e2e2e2;
     border: none;
 }
-.cart-items-items .cross{
+.cart-items-item .cross{
     cursor: pointer;
 }
